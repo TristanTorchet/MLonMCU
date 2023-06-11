@@ -1,0 +1,64 @@
+---
+# CHW configuration for memenet
+
+arch: afhqnet
+dataset: afhq
+
+# Define layer parameters in order of the layer sequence
+layers:
+  # conv1
+  - pad: 1
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0x0000.0000.0000.0007  # inputs have 3 channels
+    data_format: HWC
+    op: conv2d
+    kernel_size: 3x3
+  # conv2
+  - pad: 1
+    max_pool: 2
+    pool_stride: 2
+    activate: ReLU
+    out_offset: 0
+    processors: 0xe000.0000.0000.0000  # inputs have 3 channels
+    op: conv2d
+    kernel_size: 3x3
+  # conv3
+  - pad: 1
+    max_pool: 2
+    pool_stride: 2
+    activate: ReLU
+    out_offset: 0x2000
+    processors: 0x0000.0000.0000.ff00  # inputs have 8 channels
+    op: conv2d
+    kernel_size: 3x3
+  # conv4
+  - pad: 1
+    max_pool: 2
+    pool_stride: 2
+    activate: ReLU
+    out_offset: 0
+    processors: 0x0000.ffff.0000.0000  # inputs have 16 channels
+    op: conv2d
+    kernel_size: 3x3
+  # conv5 ~ maxpool
+  - max_pool: 2
+    pool_stride: 2
+    out_offset: 0x2000
+    processors: 0xffff.ffff.0000.0000  # inputs have 32 channels
+    op: None
+
+  - flatten: true
+    out_offset: 0
+    processors: 0xffff.ffff.0000.0000  # inputs have 32 channels before flattening
+    operation: MLP
+
+  - out_offset: 0x2000
+    processors: 0x0000.0000.ffff.ffff  # inputs have 32 channels
+    operation: MLP
+
+  - out_offset: 0
+    processors: 0xffff.0000.0000.0000  # inputs have 16 channels
+    operation: MLP
+    output_width: 32
+

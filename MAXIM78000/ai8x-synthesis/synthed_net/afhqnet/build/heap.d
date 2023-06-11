@@ -1,0 +1,34 @@
+/Users/tristantorchet/Desktop/MA4/MLonMCU2/Exercise8/ai8x-synthesis/synthed_net/afhqnet/build/heap.o: \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Source/heap.c \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/errno.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/errno.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/reent.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_ansi.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/newlib.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/config.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/ieeefp.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_types.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_types.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/lock.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/unistd.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/unistd.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/cdefs.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/types.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/endian.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_endian.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/select.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_sigset.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timeval.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/timespec.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_timespec.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_pthreadtypes.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/sched.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/types.h

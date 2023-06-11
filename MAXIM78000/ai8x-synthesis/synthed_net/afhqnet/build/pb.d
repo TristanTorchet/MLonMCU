@@ -1,0 +1,26 @@
+/Users/tristantorchet/Desktop/MA4/MLonMCU2/Exercise8/ai8x-synthesis/synthed_net/afhqnet/build/pb.o: \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/Boards/MAX78000/EvKit_V1/../../../MiscDrivers/PushButton/pb.c \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stddef.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_device.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/max78000.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/lib/gcc/arm-none-eabi/10.3.1/include/stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/machine/_default_types.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/features.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/_newlib_version.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_intsup.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Tools/GNUTools/10.3/arm-none-eabi/include/sys/_stdint.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/core_cm4.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_version.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_compiler.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/cmsis_gcc.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/5.9.0/Core/Include/mpu_armv7.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/system_max78000.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gcr_regs.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_errors.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_pins.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/CMSIS/Device/Maxim/MAX78000/Include/gpio_regs.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/mxc_assert.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/Boards/MAX78000/EvKit_V1/../../../MiscDrivers/PushButton/pb.h \
+ /Users/tristantorchet/Desktop/MA4/MLonMCU2/MaximSDK/Libraries/PeriphDrivers/Include/MAX78000/gpio.h
